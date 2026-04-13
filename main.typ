@@ -62,6 +62,12 @@
 = 万有引力
 #include "chapters/牛顿力学/万有引力.typ"
 
+= 静电学
+#include "chapters/静电学/静电学基础.typ"
+#include "chapters/静电学/高斯定理.typ"
+#include "chapters/静电学/电势能.typ"
+#include "chapters/静电学/导体.typ"
+
 
 #pagebreak(to: "odd")
 
