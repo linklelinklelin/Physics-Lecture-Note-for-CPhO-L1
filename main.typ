@@ -68,6 +68,16 @@
 #include "chapters/静电学/电势能.typ"
 #include "chapters/静电学/导体.typ"
 
+= 电流与电路
+#include "chapters/电流与电路/稳恒电流.typ"
+#include "chapters/电流与电路/复杂电路.typ"
+#include "chapters/电流与电路/二阶电路.typ"
+#include "chapters/电流与电路/交流电.typ"
+
+= 磁场与电流
+#include "chapters/磁场与电流/静磁场.typ"
+#include "chapters/磁场与电流/电磁感应.typ"
+
 
 #pagebreak(to: "odd")
 
